@@ -33,7 +33,16 @@
 ```sh
 terraform init
 ```
+## Validação de sintaxe 
 
+```sh
+terraform validate
+```
+## Formatação/indentação de código
+
+```sh
+terraform fmt
+```
 ## Aplicando
 
 ```sh
