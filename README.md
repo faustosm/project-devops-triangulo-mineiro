@@ -14,8 +14,6 @@
 
 > Codebase da série de videos Terraformando o EKS no Youtube
 
-##teste simples 20-07-2023
-
 ### 🏠 [Guia](/)
 
 * **Aula #00 - Conceitos básicos e VPC** - [Exemplos](https://github.com/msfidelis/terraformando-eks/tree/aula00_vpc) - [Video](https://www.youtube.com/watch?v=-ghbb9PyGxY)
