@@ -7,12 +7,12 @@ variable "aws_region" {
 }
 
 variable "k8s_version" {
-  default = "1.19"
+  default = "1.27"
 }
 
 variable "nodes_instances_sizes" {
   default = [
-    "t3.large"
+    "t2.micro"
   ]
 }
 
